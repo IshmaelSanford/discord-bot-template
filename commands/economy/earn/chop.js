@@ -4,7 +4,7 @@ const humanize = require('humanize-duration')
 const { MongoEconomy } = require('../../../library/user')
 const cooldowns = new Map()
 module.exports = {
-    name: 'of',
+    name: 'chop',
     description: "start an onlyfans to earn a living",
     category: 'economy',
     run: async function(message) {

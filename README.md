@@ -26,6 +26,8 @@ In the `config.js` file, edit all that apply.
 - `symbol` replace `back` " currency" with desired name (keep the space before)
 - `economy message` replace with desired messages
 
+![alt text](config.png)
+
 # Bugs and Issues
 There are many bugs in the code. This was created in discord.js v12 which is no longer supported. For questions you can contact me on discord, `shorty#9999`
 
