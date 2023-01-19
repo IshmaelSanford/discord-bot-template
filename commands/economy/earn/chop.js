@@ -5,7 +5,7 @@ const { MongoEconomy } = require('../../../library/user')
 const cooldowns = new Map()
 module.exports = {
     name: 'chop',
-    description: "start an onlyfans to earn a living",
+    description: "chop trees for a living",
     category: 'economy',
     run: async function(message) {
         const cooldown = cooldowns.get(message.author.id)
