@@ -1,7 +1,7 @@
 module.exports = {
-    prefix: [',', ',temp'],
-    token: "ODE4MjU4Mjc3MTkxNjQ3MjY0.GcCPcj.oJYy1-TOLj3-BYjYb5XnnruBmp97lmi-MqCOaE",
-    mongoPath: "mongodb+srv://ishmaelsanford21:64110170@cluster0.iwvovhp.mongodb.net/?retryWrites=true&w=majority",
+    prefix: [','],
+    token: "token",
+    mongoPath: "url",
 
     // the id that tracks how many members joined your server
     memberCounterID: "1063955627224870993",
